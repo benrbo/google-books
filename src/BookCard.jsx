@@ -42,7 +42,6 @@ const BookCard = ({
               <p>{description}</p>
             </div>
           </div>
-          <div className='mt-3'>{description}</div>
         </div>
       </Modal>
     </Card>
